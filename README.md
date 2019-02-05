@@ -1,5 +1,5 @@
 # Add or remove computers from groups AD
-This repository contains powershell scripts. One for adding and one for removing computers from groups in Active Directory.
+This repository contains two powershell scripts. One for adding and one for removing computers from groups in Active Directory.
 
 # Usage 
 - Enter a list of computers in "computers.txt". Make sure to have one computer per line and no spaces. 
